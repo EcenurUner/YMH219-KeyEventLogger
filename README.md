@@ -58,10 +58,10 @@ Bu uygulamanın amacı; C# Windows Forms üzerinde klavye giriş olaylarının (
 ## 📸 Ekran Görüntüleri
 
 ### 1. Kayıt Durduruldu (İlk Başlangıç / Bekleme Hali)
-![Kayıt Durduruldu](screenshot1.png)
+![Kayıt Durduruldu](YMH219-KeyEventLogger/screenshot1.png)
 
 ### 2. Kayıt Aktif (Tuşların ve İstatistiklerin Yakalandığı An)
-![Kayıt Aktif](screenshot2.png)
+![Kayıt Aktif](YMH219-KeyEventLogger/screenshot2.png)
 
 ---
 
